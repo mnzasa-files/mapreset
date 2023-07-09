@@ -1,4 +1,4 @@
 # MapReset
-A 1.20.1 plugin that lets you reset your map to the map you want
-(useful for minigames where you just want to reset new built/destroyed blocks and this lets you do it). 
-You upload your map into the mapreset/maps folder and execute the /mapreset command to reset your map to the map you uploaded. 
+This is a 1.20.1 MapReset Plugin, which lets you upload your own map.
+Then you are able to execute the /mapreset command to reset your world to the map you've uploaded.
+This might be useful for Minigames, where the base of the map should be kept the same, but modifications by the players, like placed or removed blocks shouldn't be kept.
