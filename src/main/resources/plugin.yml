@@ -1,0 +1,10 @@
+name: mapreset
+version: '${project.version}'
+main: de.mnzasa.mapreset.Mapreset
+api-version: '1.20'
+
+commands:
+  mapreset:
+    description: Reset the map
+    usage: /mapreset
+    permission: mapreset.reset
